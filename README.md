@@ -7,7 +7,7 @@
 * CUDA = 10.2
 * matplotlib = 3.1.3
 * numpy = 1.18.4
-* 
+* pillow = 7.0.0
 
 ## model choice
 * VGG16
