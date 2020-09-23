@@ -6,6 +6,8 @@
 * torch = 1.5.0
 * CUDA = 10.2
 * matplotlib = 3.1.3
+* numpy = 1.18.4
+* 
 
 ## model choice
 * VGG16
